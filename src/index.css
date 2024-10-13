@@ -85,5 +85,7 @@
   .bg-hover-coral-red{
     @apply hover:text-[#e71c1c];
   }
+
+  
   
 }

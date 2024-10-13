@@ -28,7 +28,7 @@ const App = () => {
           <Routes>
             <Route path="/" element={
               <main className="relative bg-black">
-                <section className="xl:padding-l wide:padding-r padding-b opacity-0 animate-blurIn delay-200 bg-black text-white">
+                <section className="xl:padding-l wide:padding-r padding-b opacity-0 animate-blurIn delay-200 bg-black text-white appear">
                   <Hero />
                 </section>
                 <section className="padding opacity-0 animate-blurIn delay-300">
